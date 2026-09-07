@@ -1,4 +1,7 @@
-# Persona5UI![[start.gif]]![[SkillPage.gif]]
+# Persona5UI
+![](docs/start.gif)
+![](docs/SkillPage.gif)
+
 Unity를 활용한 페르소나5 ui 모작
 
 ---
