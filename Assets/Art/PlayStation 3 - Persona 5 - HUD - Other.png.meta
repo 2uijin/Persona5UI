@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 531c4483c79daf241bbb8f5d7946288b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2217
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430cb7e43fa327746a8d8158a2ba1fdc
+      internalID: -1661498301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_1
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 2023
+        width: 189
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e822a4f29f5340b86a43c38d9f3c7
+      internalID: -2097212137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_2
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2046
+        width: 190
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76185383042adc34e8be42511f8af45c
+      internalID: -1567028596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_3
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2045
+        width: 191
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b5fce6637ee24dab0528ce404be81
+      internalID: -439238405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_4
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2013
+        width: 155
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85b845c610bb14ca6648547069b8ed
+      internalID: -921988069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2012
+        width: 228
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c466df68f2024d93b6cc5808c92d0
+      internalID: -2067125834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_6
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1979
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351b105b696e4ed4bac91b88f812e7f6
+      internalID: -1440013247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_7
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1980
+        width: 212
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b3b4015cb0864a9901a10e535f494
+      internalID: 453437625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_8
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1946
+        width: 214
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3838a59c234b5a94d80d3e1ab11c1f16
+      internalID: 1863274615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_9
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1945
+        width: 212
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a4bce36892ea94ab1f206f54655020
+      internalID: -780275253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_10
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1910
+        width: 269
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a73d30baf23cd4fae34b0d7120921c
+      internalID: 234558131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_11
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1877
+        width: 255
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd3d79bf6d4534692cdfb774e2491a
+      internalID: -345535638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_12
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1844
+        width: 194
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60f3dec7d46b24aab92c34fb4bcf14
+      internalID: -790509501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_13
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1774
+        width: 253
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc308a0e2232dd4ba40cc480ee74dab
+      internalID: 853581457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_14
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1796
+        width: 223
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084db3eb06a8bcc4b97b08b681407b9e
+      internalID: -171932377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_15
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1968
+        width: 169
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf23d57bf40204ba4466a835fa71d7
+      internalID: -370622550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_16
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 1964
+        width: 329
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dd4332b7a40984da006309a5257f22
+      internalID: 129154825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_17
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1908
+        width: 203
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7973ab7b41161944a9172e31e43d9e4a
+      internalID: 654561499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_18
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1908
+        width: 191
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f4876a1a4ec3b4899cb2f4baf9620a
+      internalID: 884713182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_19
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1846
+        width: 174
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f524ab630f3fb4a83b448c790127ca
+      internalID: -37739878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_20
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 2168
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a67d6b2dada7408a3c1d7b098e28f
+      internalID: 786221809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - HUD - Other_21
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2169
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c960216e5224fa40902bdae3cd7dca0
+      internalID: 1666457906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3a37f15ab75ffd94b9798ca71fcab1b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayStation 3 - Persona 5 - HUD - Other_0: -1661498301
+      PlayStation 3 - Persona 5 - HUD - Other_1: -2097212137
+      PlayStation 3 - Persona 5 - HUD - Other_10: 234558131
+      PlayStation 3 - Persona 5 - HUD - Other_11: -345535638
+      PlayStation 3 - Persona 5 - HUD - Other_12: -790509501
+      PlayStation 3 - Persona 5 - HUD - Other_13: 853581457
+      PlayStation 3 - Persona 5 - HUD - Other_14: -171932377
+      PlayStation 3 - Persona 5 - HUD - Other_15: -370622550
+      PlayStation 3 - Persona 5 - HUD - Other_16: 129154825
+      PlayStation 3 - Persona 5 - HUD - Other_17: 654561499
+      PlayStation 3 - Persona 5 - HUD - Other_18: 884713182
+      PlayStation 3 - Persona 5 - HUD - Other_19: -37739878
+      PlayStation 3 - Persona 5 - HUD - Other_2: -1567028596
+      PlayStation 3 - Persona 5 - HUD - Other_20: 786221809
+      PlayStation 3 - Persona 5 - HUD - Other_21: 1666457906
+      PlayStation 3 - Persona 5 - HUD - Other_3: -439238405
+      PlayStation 3 - Persona 5 - HUD - Other_4: -921988069
+      PlayStation 3 - Persona 5 - HUD - Other_5: -2067125834
+      PlayStation 3 - Persona 5 - HUD - Other_6: -1440013247
+      PlayStation 3 - Persona 5 - HUD - Other_7: 453437625
+      PlayStation 3 - Persona 5 - HUD - Other_8: 1863274615
+      PlayStation 3 - Persona 5 - HUD - Other_9: -780275253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
